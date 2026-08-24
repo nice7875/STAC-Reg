@@ -71,14 +71,6 @@ STAC-Reg improves DSC by **3.90 percentage points** and NCC by **24.29 percentag
   <img src="assets/readme/qualitative_results.png" width="100%" alt="Qualitative comparison with pairwise and sequence-wise registration methods">
 </p>
 
-## Sequence Context Analysis
-
-Our controlled analysis indicates that the benefit of additional phases depends more strongly on their kinetic diversity than on sequence length alone. Phases from distinct contrast-transition stages provide complementary evidence for anatomical correspondence.
-
-<p align="center">
-  <img src="assets/readme/sequence_context.png" width="96%" alt="Effect of temporal context on registration performance">
-</p>
-
 ## Dataset
 
 The study uses an in-house clinical dataset collected at Shanghai General Hospital:
@@ -122,4 +114,3 @@ The source-code license will be published together with the implementation. The 
 ## Acknowledgements
 
 We thank the clinicians and technical collaborators involved in the acquisition, curation, and analysis of the cardiac CT angiography-kinetic sequences used in this study.
-
