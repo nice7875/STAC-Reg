@@ -5,7 +5,7 @@
 ### STAC-Reg
 
 [![Paper](https://img.shields.io/badge/Paper-Preprint-blue.svg)](#paper)
-![Code](https://img.shields.io/badge/Code-Coming_Soon-orange.svg)
+[![Code](https://img.shields.io/badge/Code-Coming_Soon-orange.svg)](./)
 [![Framework](https://img.shields.io/badge/Framework-PyTorch-EE4C2C.svg)](https://pytorch.org/)
 [![Task](https://img.shields.io/badge/Task-Cardiac_CT_Registration-7B68EE.svg)](#overview)
 
