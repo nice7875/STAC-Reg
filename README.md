@@ -5,7 +5,7 @@
 ### STAC-Reg
 
 [![Paper](https://img.shields.io/badge/Paper-Preprint-blue.svg)](#paper)
-[![Code](https://img.shields.io/badge/Code-Coming_Soon-orange.svg)](#open-source-plan)
+![Code](https://img.shields.io/badge/Code-Coming_Soon-orange.svg)
 [![Framework](https://img.shields.io/badge/Framework-PyTorch-EE4C2C.svg)](https://pytorch.org/)
 [![Task](https://img.shields.io/badge/Task-Cardiac_CT_Registration-7B68EE.svg)](#overview)
 
@@ -81,21 +81,6 @@ The study uses an in-house clinical dataset collected at Shanghai General Hospit
 - seven cardiac structures used for pseudo-label-based evaluation: aorta, left atrium, right atrium, myocardium, left ventricle, right ventricle, and pulmonary artery.
 
 Because the dataset contains clinical patient data and is governed by institutional approval and privacy requirements, it cannot be directly distributed through this repository. We will release the preprocessing protocol and data organization specification to facilitate reproduction on eligible datasets.
-
-## Open-Source Plan
-
-We are committed to making STAC-Reg publicly accessible and reproducible. The release is being prepared in stages:
-
-- [x] Public project page and method overview
-- [x] Main quantitative and qualitative results
-- [ ] Network implementation
-- [ ] Training and inference pipelines
-- [ ] Preprocessing and data organization instructions
-- [ ] Configuration files and pretrained checkpoints
-- [ ] Evaluation scripts and metric definitions
-- [ ] Reproducibility examples
-
-If you are interested in this work, please **star** or **watch** the repository to receive release updates. Questions and reproducibility discussions are welcome through GitHub Issues.
 
 ## Paper
 
