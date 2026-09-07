@@ -26,7 +26,7 @@ STAC-Reg addresses two task-specific challenges:
 2. **Temporal appearance evolution:** the same anatomical structure may show substantially different appearances across phases.
 
 <p align="center">
-  <img src="assets/readme/task_overview.png" width="96%" alt="Overview of cardiac CT angiography-kinetic sequence registration">
+  <img src="assets/readme/task_overview.jpeg" width="96%" alt="Overview of cardiac CT angiography-kinetic sequence registration">
 </p>
 
 ## Method
